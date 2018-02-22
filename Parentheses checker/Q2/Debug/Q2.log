@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Q2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Stack.cpp
+  main.cpp
+  Generating Code...
+c:\users\assem abozaid\desktop\github\data-structures\parentheses checker\q2\main.cpp(33): warning C4715: 'checkparenth': not all control paths return a value
+  Q2.vcxproj -> C:\Users\Assem Abozaid\Desktop\Github\data-structures\Parentheses checker\Debug\Parentheses checker.exe
+  Q2.vcxproj -> C:\Users\Assem Abozaid\Desktop\Github\data-structures\Parentheses checker\Debug\Parentheses checker.pdb (Partial PDB)
