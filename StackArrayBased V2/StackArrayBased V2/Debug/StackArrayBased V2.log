@@ -1,0 +1,5 @@
+﻿  StackArrayBasedV2.cpp
+e:\assem courses\c-c++ programs\stackarraybased v2\stackarraybased v2\stackarraybasedv2.cpp(10): warning C4101: 's': unreferenced local variable
+e:\assem courses\c-c++ programs\stackarraybased v2\stackarraybased v2\stackarraybasedv2.cpp(26): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char []'
+  StackArrayBased V2.vcxproj -> E:\Assem Courses\C-C++ programs\StackArrayBased V2\Debug\StackArrayBased V2.exe
+  StackArrayBased V2.vcxproj -> E:\Assem Courses\C-C++ programs\StackArrayBased V2\Debug\StackArrayBased V2.pdb (Partial PDB)
